@@ -1,0 +1,7 @@
+{
+  "name": "篠原教室 AI English Reading Coach",
+  "description": "An interactive web application that helps students improve their English reading skills through AI-powered real-time feedback and analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
